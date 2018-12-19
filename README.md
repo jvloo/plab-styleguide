@@ -12,3 +12,4 @@ PrintingLab Styleguide
 - https://venngage.com/blog/brand-style-guide/
 - https://99designs.com/blog/logo-branding/how-to-create-a-brand-style-guide/
 - https://medium.muz.li/how-to-create-a-style-guide-from-scratch-tips-and-tricks-e00f25b423bf
+- https://medium.muz.li/how-to-create-a-style-guide-from-scratch-tips-and-tricks-e00f25b423bf
