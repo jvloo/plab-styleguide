@@ -6,6 +6,7 @@ PrintingLab Styleguide
 - #EB3833
 - #EC5F43
 - #E82535 Candy Apple
+- #FF5233
 
 # References
 - https://www.helpscout.com/blog/style-guide/
